@@ -203,12 +203,12 @@
         </div>
     </div>
     <div class="webreca-marketing-potential">
-<h5 class="text-center text-white fw-bold mt-5">Unlock Your Marketing Powerhouse
+<p class="text-center text-white text-uppercase mb-0 mt-5 fs-22">Unlock Your Marketing Powerhouse
 
-    </h5>
-    <h3 class="text-center text-white">All-in-One Team for your ultimate Growth</h3>
+</p>
+    <h3 class="text-center text-white mt-0 pt-0">All-in-One Team for your ultimate Growth</h3>
     <p class="text-center text-white">
-        Ready to take your business to the next level? Our comprehensive digital marketing expertise covers everything you need to thrive in today's competitive landscape.
+        Ready to take your business to the next level?<br> Our comprehensive digital marketing expertise covers everything you need to thrive in today's competitive landscape.
     </p>
     </div>
 @endsection
